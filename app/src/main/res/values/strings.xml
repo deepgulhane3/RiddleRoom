@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Riddle Room</string>
+    <string name="deep_gulhane">Deep Gulhane</string>
+    <string name="question_1">In Anjaana Anjaani, Akash and Kiara meet because they wanted to die by suicide by jumping off the George Washington Bridge.</string>
+    <string name="question_2">In Band Baaja Baaraat, Bittoo and Shruti start their own wedding planning company called ‘Shaadi Zindabad’.</string>
+    <string name="question_3">In Zindagi Na Milegi Dobara, Kabir suggests skydiving as his choice of adventure sports.</string>
+    <string name="question_4">Ranbir Kapoor’s character name in Rockstar was Janardhan Jakhar.</string>
+    <string name="question_5">In English Vinglish, Shashi travelled to the city of Los Angeles for her niece’s wedding.</string>
+    <string name="question_6">In Yeh Jawaani Hai Deewani, Aditi was initially in love with Avinash.</string>
+    <string name="question_7">In Dil Dhadakne Do, the Mehras have a multi-million dollar business called ‘AyKe’.</string>
+    <string name="question_8">In Kapoor and Sons, the story is based in Coonoor.</string>
+    <string name="question_9">Before making it big, Akshay Kumar worked as a waiter.</string>
+    <string name="question_10">Kangana Ranaut has more Instagram followers than superstar Amitabh Bachchan.</string>
+
+    <string name="question_11">One infected person infects about 2.5 other people.</string>
+    <string name="question_12">Patients with COVID-19 can take anti-inflammatory medicine like ibuprofen, aspirin or naproxen.</string>
+    <string name="question_13">Once infected with the coronavirus, it can take 2 to 14 days to show symptoms.</string>
+    <string name="question_14">Hand sanitizer doesn’t kill coronavirus because it’s antibacterial, not antiviral.</string>
+    <string name="question_15">Healthy people should practice social distancing.</string>
+    <string name="question_16">During a shelter-in-place order, my kids can be with other kids in small groups.</string>
+    <string name="question_17">Anyone with COVID-19 symptoms, regardless of their overall health, should seek testing.</string>
+    <string name="question_18">A loss of smell or taste is a symptom of COVID-19.</string>
+    <string name="question_19">If you can hold your breath for 10 seconds, you don’t have COVID-19.</string>
+    <string name="question_20">COVID-19 can spread through mosquitoes.</string>
+
+    <string name="question_21">A monitor displays information...</string>
+    <string name="question_22">A SD card is an output device... </string>
+    <string name="question_23">A microphone is used an input device... </string>
+    <string name="question_24">A pen drive is a storage device... </string>
+    <string name="question_25">Microsoft office is a piece of software... </string>
+    <string name="question_26">A firewall is a type of hardware...</string>
+    <string name="question_27">The CPU is referred as the stomach of the computer...</string>
+    <string name="question_28">A terabyte is equal to 1 million gigabytes...</string>
+    <string name="question_29">CD stands for collective disk...</string>
+    <string name="question_30">Bluetooth allows your device to connect with another device...</string>
+
+    <string name="trueandfalse">True</string>
+    <string name="falseandtrue">False</string>
+    <string name="score_0_10">Score 0/10</string>
+    <string name="q_0_20">Q : 0/20</string>
+
+
+</resources>
